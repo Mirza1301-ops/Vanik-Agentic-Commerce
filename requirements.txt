@@ -1,0 +1,4 @@
+# Vanik has no third-party dependencies. Everything it uses ships with Python.
+#
+# The file is here so that "pip install -r requirements.txt" works and does
+# nothing, which is the answer you want when someone asks what to install.
